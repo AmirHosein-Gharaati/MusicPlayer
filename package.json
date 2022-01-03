@@ -1,0 +1,23 @@
+{
+  "name": "MusicPlayer",
+  "version": "1.0.0",
+  "description": "<h1 align= center><b>⭐️ Music Player ⭐️</b></h1> <h3 align = center> A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls </h3>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmirHosein-Gharaati/MusicPlayer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmirHosein-Gharaati/MusicPlayer/issues"
+  },
+  "homepage": "https://github.com/AmirHosein-Gharaati/MusicPlayer#readme",
+  "engines": {
+    "node": "15.x"
+  }
+}
